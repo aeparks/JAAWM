@@ -1,3 +1,5 @@
-# JAAWM - Journeyman And Apprentice Workforce Manipulator
+# CSS 490 : "JAAWM (Journeyman And Apprentice Workforce Manipulator)"
+Written as the culminating project for my Bachelor of Science in Computer Science and Software Engineering from the University of Washington | Bothell.
 
-The culminating project for my Bachelor of Science in Computer Science and Software Engineering from the University of Washington | Bothell.  Designed and written for the cooperative education requirement between the Sound Transit diversity department (sponsor) and the UWB.
+# Premise
+The purpose of this project was to provide an alternative and additional method of worker tabulation for the Sound Transit Diveristy Programs Office (current known as the Office of Small Business Development and Labor Compliance) while also satisfying the requirements of indicated by the faculty advisor of CSS 490 : Cooperative Education.
